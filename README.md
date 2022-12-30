@@ -1,6 +1,11 @@
 # nginx-log-parser
 
 ## 安装
+1. php >= 7.1
+```bash
+composer require huid/nginx-log-parser:~1.0
+```
+2. php >= 8.0
 ```bash
 composer require huid/nginx-log-parser:~2.0
 ```
