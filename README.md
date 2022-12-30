@@ -2,7 +2,7 @@
 
 ## 安装
 ```bash
-composer require huid/nginx-log-parser:~1.0
+composer require huid/nginx-log-parser:~2.0
 ```
 
 ## 使用
